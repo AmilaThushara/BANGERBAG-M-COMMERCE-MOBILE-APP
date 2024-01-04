@@ -2,7 +2,6 @@
 
 
 
-![Screenshot 2024-01-04 155650](https://github.com/AmilaThushara/BANGERBAG-M-COMMERCE-MOBILE-APP/assets/80099554/7532172f-1f98-4fd6-a4a6-7c6757a2c3ae)
 ![Screenshot 2024-01-04 155650](https://github.com/AmilaThushara/BANGERBAG-M-COMMERCE-MOBILE-APP/assets/80099554/f411aace-b308-4bd5-a270-3d18fef1efeb)
 ![Screenshot 2024-01-04 154304](https://github.com/AmilaThushara/BANGERBAG-M-COMMERCE-MOBILE-APP/assets/80099554/36c84a0f-1565-4259-9129-99ad80550c84)
 ![Screenshot 2024-01-04 154334](https://github.com/AmilaThushara/BANGERBAG-M-COMMERCE-MOBILE-APP/assets/80099554/10d1b833-622b-4d1b-b49e-78f898fd5d0f)
