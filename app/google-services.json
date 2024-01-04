@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "635398373540",
+    "project_id": "bangerbageshop",
+    "storage_bucket": "bangerbageshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635398373540:android:1b5abe08496d3b987da631",
+        "android_client_info": {
+          "package_name": "lk.jiat.app.bangerbageshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635398373540-qpn5ttuorocnsdr8rgclc17p3381lgpa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lk.jiat.app.bangerbageshop",
+            "certificate_hash": "5ec6f28d39d291ffb6554a958b9eae005433fdc5"
+          }
+        },
+        {
+          "client_id": "635398373540-htv2et0129aqo42ilmauot3p9o587smg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDxAS5lq1G-kGjMIAl0g8YoTJU1UDV3j8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635398373540-htv2et0129aqo42ilmauot3p9o587smg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

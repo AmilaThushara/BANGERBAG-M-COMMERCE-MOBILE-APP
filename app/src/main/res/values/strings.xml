@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">BangerBag</string>
+
+    <string name="first_slide" translatable="false">Choose Your Products</string>
+    <string name="second_slide" translatable="false">Fast Delivery</string>
+    <string name="third_slide" translatable="false">Good Service</string>
+    <string name="description" translatable="false">Online Shopping at BangerBag for the best cell phones, electronics, toys and more products. Promotions on clothing, electronics, sports and more. Check out all the deals!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="web_client_id">635398373540-htv2et0129aqo42ilmauot3p9o587smg.apps.googleusercontent.com</string>
+</resources>
