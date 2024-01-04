@@ -1,8 +1,8 @@
 [BANGERBAG M-COMMERCE PROJECT DOCUMENT.pdf](https://github.com/AmilaThushara/BANGERBAG-M-COMMERCE-MOBILE-APP/files/13828936/BANGERBAG.M-COMMERCE.PROJECT.DOCUMENT.pdf)
 
 
-![Screenshot 2024-01-04 155650](https://github.com/AmilaThushara/BANGERBAG-M-COMMERCE-MOBILE-APP/assets/80099554/e026c349-53b4-4d5f-8d52-562433727146)
-Splash Screen / Progress Bar
+Splash Screen / Progress Bar  ![Screenshot 2024-01-04 155650](https://github.com/AmilaThushara/BANGERBAG-M-COMMERCE-MOBILE-APP/assets/80099554/e026c349-53b4-4d5f-8d52-562433727146)
+
 
 
 
